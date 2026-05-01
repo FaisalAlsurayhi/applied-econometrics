@@ -4,6 +4,19 @@ This repo is a set of applied econometrics projects, each taking a real dataset 
 
 Every project has a research question, a worked analysis in Python, and a writeup in its own README. I tried to write the way I would explain a finding to someone, not the way a textbook would.
 
+## What This Shows
+
+This repo is meant to show the statistics/econometrics side of my analytics work. The focus is not just running a model, but explaining what the coefficient means, whether the result is reliable, and what can go wrong if the assumptions are ignored.
+
+For data analyst and reporting analyst roles, the main skills demonstrated are:
+
+- Regression analysis and interpretation
+- Model comparison and adjusted R-squared reasoning
+- Missing-data awareness when comparing specifications
+- Heteroskedasticity testing with Breusch-Pagan and White tests
+- Robust standard errors and practical inference
+- Clear written communication of technical results
+
 ## Projects
 
 **1. [OLS from first principles](01-ols-from-first-principles/)**
@@ -26,6 +39,10 @@ The four projects map to a progression from estimation mechanics to inference un
 - Project 2 shows what multiple regression adds that bivariate regression cannot
 - Project 3 shows how to compare nested models honestly, and what R² actually tells us
 - Project 4 shows how to diagnose a broken assumption and what to do about it
+
+## Tools
+
+`Python` · `pandas` · `statsmodels` · `numpy` · `plotly` · `econometrics`
 
 ## Data and attribution
 
