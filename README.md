@@ -4,11 +4,11 @@ This repo is a set of applied econometrics projects, each taking a real dataset 
 
 Every project has a research question, a worked analysis in Python, and a writeup in its own README. I tried to write the way I would explain a finding to someone, not the way a textbook would.
 
-## What This Shows
+## Why I Built This
 
-This repo is meant to show the statistics/econometrics side of my analytics work. The focus is not just running a model, but explaining what the coefficient means, whether the result is reliable, and what can go wrong if the assumptions are ignored.
+This repo shows the statistics/econometrics side of my analytics work. I did not want it to be just "run a regression and paste the output." The point was to explain what the coefficient means, whether the result is reliable, and what can go wrong if the assumptions are ignored.
 
-For data analyst and reporting analyst roles, the main skills demonstrated are:
+The main skills I wanted to show are:
 
 - Regression analysis and interpretation
 - Model comparison and adjusted R-squared reasoning
