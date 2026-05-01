@@ -60,6 +60,6 @@ I'm Faisal Alsurayhi, an Economics student at George Mason University (class of 
 
 - [crude-oil-price-analysis](https://github.com/FaisalAlsurayhi/crude-oil-price-analysis) — time-series analysis of crude oil prices in Python
 - [nitaqat-workforce-sql](https://github.com/FaisalAlsurayhi/nitaqat-workforce-sql) — SQL analysis of Saudi labor nationalization policy
-- [data-analytics-portfolio](https://github.com/FaisalAlsurayhi/data-analytics-portfolio) — mixed SQL, Excel, and Power BI projects
+- [data-analytics-portfolio](https://github.com/FaisalAlsurayhi/data-analytics-portfolio) — Excel forecasting and business optimization models
 
 Find me on [LinkedIn](https://www.linkedin.com/in/faisal-alsurayhi-64049422b/).
