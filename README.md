@@ -56,7 +56,7 @@ Each project's README has a specific source citation. The research questions, an
 
 ## About
 
-I'm Faisal Alsurayhi, an Economics student at George Mason University (class of 2026), building a data analyst portfolio ahead of my return to Saudi Arabia's Eastern Province this summer. Related portfolio work:
+I'm Faisal Alsurayhi, an Economics graduate at George Mason University (class of 2026), building a data analyst portfolio ahead of my return to Saudi Arabia's Eastern Province this summer. Related portfolio work:
 
 - [crude-oil-price-analysis](https://github.com/FaisalAlsurayhi/crude-oil-price-analysis) — time-series analysis of crude oil prices in Python
 - [nitaqat-workforce-sql](https://github.com/FaisalAlsurayhi/nitaqat-workforce-sql) — SQL analysis of Saudi labor nationalization policy
